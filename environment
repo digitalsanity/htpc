@@ -1,0 +1,7 @@
+PUID=1002
+PGID=999
+TZ="America/Los_Angeles"
+USERDIR="/home/htpc/server"
+MYSQL_ROOT_PASSWORD="1%1%-mysql-root-password"
+PLEXTOKEN=""
+PLEXNETWORK=""
